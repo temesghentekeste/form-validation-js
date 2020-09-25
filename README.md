@@ -1,7 +1,7 @@
-# GitHub Finder
+# Form Validation JS
 
-[![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/temesghentekeste/github-finder-js/pulls)
-[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/temesghentekeste/github-finder-js/issues)
+[![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/temesghentekeste/form-validation-js/pulls)
+[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/temesghentekeste/form-validation-js/issues)
 
 
 ## Content
@@ -12,53 +12,47 @@
 <a href="#with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#setup">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#enhancement">Enhancements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#author">Author</a>
 
 
 ## About <a name = "about"></a>
 
-GitHub Finder is a project intended to showcase such asynchrounous JavaScript programming skills as API calls using async and await keywords and promises. The project utilizes GitHub api to fetch the profile information and latest repos of a particular GitHub user account.
+This project is intended to showcase form validatin skills in JavaScript using Regular Expressions. 
 In nutshell, the project allows a user to:
-<li>Search by GitHub username</li>
-<li>Fetch the profile info</li>
-<li>List the latest 5 repos of the GitHub user</li>
+<li>validate a name</li>
+<li>validate a zipcode</li>
+<li>validate an email address</li>
+<li>validate a phone number</li>
 
 ## 🔴 Live Demo <a name = "live"></a>
 
-**Click [here](https://githubfinder-js-temesghen.netlify.app/) in order to see a Live Demo of this project.**
+**Click [here](https://formvalidation-js-temesghen.netlify.app/) in order to see a Live Demo of this project.**
 
 ## Screenshots <a name = "screenshots"></a>
 
-### Wide Screen
-![screenshot](./images/screencapture_widescreen.gif) 
-### Small Screen
-![screenshot](./images/screencapture_mobile.gif) 
+### Form with failed validation
+![screenshot](./images/screenshot_failed.png) 
+### Form with passed validation
+![screenshot](./images/screenshot_passed.png) 
 
 ## 🔧 Built with<a name = "with"></a>
 
 - HTML
 - Bootstrap
 - Vanilla JavaScript
-- ES6/ES7/ES8
+- ES6
 - ESLint
 
 ## 🔨 Setup<a name = "setup"></a>
 ### Run a Local Copy
 - Download the repository to a local directory on your computer.
 - Or run the following commands on the terminal
-  - git clone https://github.com/temesghentekeste/github-finder-js.git
-  - cd github-finder-js
+  - git clone https://github.com/temesghentekeste/form-validation-js.git
+  - cd form-validation-js
   - open index.html file
 
 ## Prerequisites<a name = "prerequisites"></a>
 - A modern up-to-date browser
-
-## Future Enhancement<a name = "enhancement"></a>
-- Front-end implementation using React or Angular
-- Back-end implementation using Node JS
-- Testing using one of available JS Testing frameworks/libraries
-- Make GitHub API calls using the recommended approach
 
 ## ✒️  Author <a name = "author"></a>
 
@@ -73,7 +67,7 @@ In nutshell, the project allows a user to:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/temesghentekeste/github-finder-js/issues).
+Feel free to check the [issues page](https://github.com/temesghentekeste/form-validation-js/issues).
 
 
 ## 👍 Show your support
