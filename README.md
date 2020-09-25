@@ -32,7 +32,7 @@ In nutshell, the project allows a user to:
 
 ### Form with failed validation
 ![screenshot](./images/screenshot_failed.png) 
-### Form with passed validation
+### Form with successful validation
 ![screenshot](./images/screenshot_passed.png) 
 
 ## 🔧 Built with<a name = "with"></a>
