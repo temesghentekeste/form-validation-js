@@ -17,7 +17,7 @@
 
 ## About <a name = "about"></a>
 
-This project is intended to showcase form validatin skills in JavaScript using Regular Expressions. 
+This project is intended to showcase form validation skills in JavaScript using Regular Expressions. 
 In nutshell, the project allows a user to:
 <li>validate a name</li>
 <li>validate a zipcode</li>
