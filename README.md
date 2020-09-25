@@ -31,9 +31,9 @@ In nutshell, the project allows a user to:
 ## Screenshots <a name = "screenshots"></a>
 
 ### Form with failed validation
-![screenshot](./images/screenshot_failed.png) 
+![screenshot](./images/screenshot_fail.png) 
 ### Form with successful validation
-![screenshot](./images/screenshot_passed.png) 
+![screenshot](./images/screenshot_success.png) 
 
 ## 🔧 Built with<a name = "with"></a>
 
